@@ -7,6 +7,7 @@ package exercise1;
  *
  * @SHREY PATEL
  * @SHREY PATEL 2/06/2023
+ * I'm done
  */
 public class CardTrick {
     
