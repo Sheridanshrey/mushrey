@@ -1,5 +1,4 @@
 package exercise1;
-
 /**
  * A class that fills a hand of 7 cards with random Card Objects and then asks the user to pick a card.
  * It then searches the array of cards for the match to the user's card. 
@@ -8,6 +7,8 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 
  Shrey Patel - friday
+ * 
+ * I'm done
  */
 public class CardTrick {
     
